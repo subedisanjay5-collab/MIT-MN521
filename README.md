@@ -1,8 +1,11 @@
 # MN521 - Version Control and Laboratory Work
 
 ## Repository Structure
-- `labs/part1/` - Local Git operations (Tasks 1.1-1.4)
-- `labs/part2/` - Remote GitLab operations, rebase, reset (Tasks 2.1-2.7)
+- `labs/lab1/` - System Setup for Network Automation
+- `labs/lab2/` - Automation Using Linux Bash
+- `labs/lab3/` - Automation Using Python (Netmiko) 
+- `labs/lab4/` - Laboratory 4: Network Configuration Using NETCONF 
+Protocol and Python’s ncclient Libray
 - `assignments/` - Course assignments
 - `resources/` - Additional materials
 
@@ -15,4 +18,4 @@
 
 **Student:** Sanjay Subedi
 **Course:** MN521
-**Semester:** [Current Semester]
+
